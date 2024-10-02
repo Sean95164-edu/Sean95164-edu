@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Sean. In here, I will record my learning route, and what I finished. I'm a student from National Cheng Kung University who is very very interested in computer science, so I hope I can learn different technologies in the Internet.
+
+---
+
+If you have some fascinating things that want to share with me, or invite me to learn something together, you can contact me with e-mail: swsc940106@gmail.com
+
 <!--
 **Sean95164-edu/Sean95164-edu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
